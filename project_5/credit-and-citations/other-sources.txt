@@ -1,0 +1,14 @@
+Other data sources:
+**********
+https://github.com/nytimes/covid-19-data
+
+https://raw.githubusercontent.com/nytimes/covid-19-data/master/us-counties.csv
+--has county-level cases and deaths. I can marry that with population data from wikipedia but will not help with hospitalization data
+
+https://github.com/nytimes/covid-19-data/blob/master/live/us-counties.csv
+--has county-level cases, deaths, confirmed and probable
+
+**********
+Hospital data and more
+
+https://covid19.healthdata.org/united-states-of-america
