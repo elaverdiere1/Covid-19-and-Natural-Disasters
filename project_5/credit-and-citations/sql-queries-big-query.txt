@@ -29,7 +29,7 @@ d._7_31_20 AS deaths
 FROM `bigquery-public-data.covid19_usafacts.deaths` AS d
 JOIN `bigquery-public-data.covid19_usafacts.confirmed_cases` AS cc ON cc.county_name = d.county_name
 
---The below sql will not run
+--The below sql returns 15,487 rows
 SELECT 
 d.county_fips_code,
 d.county_name,
@@ -37,6 +37,8 @@ d.state,
 d.state_fips_code,
 cc._7_31_20 AS confirmed,
 d._7_31_20 AS dead
+
 FROM `bigquery-public-data.covid19_usafacts.deaths` AS d
 JOIN `bigquery-public-data.covid19_usafacts.confirmed_cases` AS cc ON cc.county_name = d.county_name
-GROUP BY d.county_fips_code
+--WHERE 
+GROUP BY d.county_fips_code, d.county_name, d.state, d.state_fips_code, d._7_31_20, cc._7_31_20
