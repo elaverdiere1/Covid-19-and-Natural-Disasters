@@ -1,4 +1,4 @@
-# group_project_5
+# How Natural Disasters Could Exacerbate COVID-19 Health Risks
 ### Inferential study of the hotspots associated with Covid-19 and Natural Disasters in the United States
 ***AUTHORS:***<br>
 **Matt Paterson, Data Science Fellow, General Assembly, hello@HireMattPaterson.com**<br>
