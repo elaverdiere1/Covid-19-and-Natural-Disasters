@@ -17,10 +17,12 @@ https://public.tableau.com/profile/eric.laverdiere#!/vizhome/1hjhvfgc5644Covid/C
 **Our final API is a set of maps built in Tableau that show a user all of this data by toggling between them, along with the historical data regarding the aforementioned natural disasters.  If we had more time we would like to create a clustering algorithm that puts all of this data together and predicts by time of year where the government or NGO relief agencies should be directing money and human resources to help our medical infrastructures ahead of the synergistic affects of these mortal dangers.**
 
 
-This repo contains datasets pulled from various locations, all of which are sited here:
+This repo contains datasets pulled from various locations, all of which are cited here:
 
 -NOAA- StromEvents Data <br>
+-https://www.ncdc.noaa.gov/stormevents/ftp.jsp<br>
 -USGS- Earthquake Data<br>
+-https://earthquake.usgs.gov/fdsnws/event/1/<br>
 -COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University<br>
 -https://github.com/CSSEGISandData/COVID-19<br>
 -https://github.com/nytimes/covid-19-data<br>
