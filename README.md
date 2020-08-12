@@ -16,11 +16,11 @@
 
 This repo contains datasets pulled from various locations, all of which are sited here:
 
--NOAA- StromEvents Data 
--USGS- Earthquake Data
--COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University
--https://github.com/CSSEGISandData/COVID-19
--https://github.com/nytimes/covid-19-data
--Google BigQuery
--https://covid19.healthdata.org/united-states-of-america
+-NOAA- StromEvents Data <br>
+-USGS- Earthquake Data<br>
+-COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University<br>
+-https://github.com/CSSEGISandData/COVID-19<br>
+-https://github.com/nytimes/covid-19-data<br>
+-Google BigQuery<br>
+-https://covid19.healthdata.org/united-states-of-america<br>
 
